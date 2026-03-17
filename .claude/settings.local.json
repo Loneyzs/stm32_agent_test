@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(arm-none-eabi-gcc:*)",
+      "Bash(cmake:*)",
+      "Bash(rm:*)",
+      "Bash(cd build:*)",
+      "Bash(make:*)",
+      "Bash(export:*)",
+      "Bash(echo:*)"
+    ]
+  }
+}
