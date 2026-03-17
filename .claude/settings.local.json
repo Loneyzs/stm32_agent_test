@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmake -B build -G Ninja)",
+      "Bash(cmake --build build)",
+      "Bash(openocd:*)"
+    ]
+  }
+}
